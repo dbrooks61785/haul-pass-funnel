@@ -26,6 +26,7 @@ export default function HaulPassVSLPage() {
           WATCH THE VSL →
         </a>
       </section>
+
     </main>
   );
 }
