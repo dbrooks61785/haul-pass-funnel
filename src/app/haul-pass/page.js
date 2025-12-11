@@ -3,7 +3,7 @@ export default function HaulPassVSLPage() {
     <main className="relative min-h-screen bg-black text-white">
 
       {/* Cinematic Background Image */}
-      <div className="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1597006681570-791cb7f98346?auto=format&fit=crop&w=1950&q=80')] bg-cover bg-center opacity-25"></div>
+<div className="absolute inset-0 bg-hero opacity-25"></div>
 
       {/* Dark Blue Neon Overlay */}
       <div className="absolute inset-0 bg-gradient-to-b from-black via-[#001133] to-black opacity-70"></div>
