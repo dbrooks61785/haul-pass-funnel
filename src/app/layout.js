@@ -1,3 +1,5 @@
+import "./globals.css";
+
 export const metadata = {
   title: "H.A.U.L. PASS",
   description: "Emergency Freight Support by EZ Lumper Services",
